@@ -1,5 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+
 <!--fondo interno-->
 <p rel="nofollow" style="background-image:url(LINK DEL FONDO INTERNO); background-repeat: no-repeat; background-size: cover; background-attachment: fixed; margin: 0px 0px 0px -200px; target=" target="_blank">
 <br>
 <img rel="nofollow" src="LINK DE TU IMAGEN" style="max-width:100%; min-width:100%; display:block; margin-left:auto; margin-right:auto; margin:-16px auto;" target="_blank">
 </p>
+
+</body>
+</html> 
